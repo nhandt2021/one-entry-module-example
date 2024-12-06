@@ -1,0 +1,17 @@
+{
+  "name": "currency-rate-checker",
+  "version": "1.0.0",
+  "description": "A simple Node.js project to check current USD exchange rates",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "p-limit": "^6.1.0",
+    "axios": "^1.7.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
